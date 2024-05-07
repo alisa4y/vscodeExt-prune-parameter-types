@@ -1,7 +1,7 @@
 {
   "name": "prune-parameter-types",
   "displayName": "prune parameter types",
-  "description": "it changes the function parameter types by pruning the unused to properties to make more reusable in some casse when you need to use the function.",
+  "description": "it changes the function parameter types by pruning the unused properties to make more reusable in some casse when you need to use the function.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
@@ -19,6 +19,7 @@
       }
     ]
   },
+  "author": "ali safari",
   "repository": {
     "type": "git",
     "url": "https://github.com/alisa4y/vscodeExt-prune-parameter-types.git"
