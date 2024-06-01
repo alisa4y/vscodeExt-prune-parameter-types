@@ -2,7 +2,7 @@
   "name": "prune-parameter-types",
   "displayName": "prune parameter types",
   "description": "it changes the function parameter types by pruning the unused properties to make more reusable in some casse when you need to use the function.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
