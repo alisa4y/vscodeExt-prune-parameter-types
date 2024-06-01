@@ -1,2 +1,0 @@
-For typescript functions to make them more reusable. 
-As you know sometimes the parameter types are very fat and have many unused properties and branches inside a function and when wanting to reuse them the problem you may face is whether we have to pass argument with type of any or force cast it to the acceptable type which is not ideal or manually pruning the parameter type of the function to only what it really needs.
